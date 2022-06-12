@@ -8,7 +8,7 @@ https://github.com/RajithaMihisuru98/SLIIT-MTIT-Assignment04-Microservices.git
 function fancyAlert(arg) {
   if(arg) {
     $.facebox({div:'#foo'})
-    SLIIT 4th Year MTIT Assignment-4 (Micro Services)
+    SLIIT 4th Year MTIT Assignment-4 (Microservices Project)
   }
 }
 ```
