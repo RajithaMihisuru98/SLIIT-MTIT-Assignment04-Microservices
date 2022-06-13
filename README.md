@@ -1,7 +1,7 @@
 
   SLIIT-MTIT-Assignment04-Microservices
 ==
->>>>>>> JAVA PROJECT  ![visitors](https://github.com/RajithaMihisuru98/SLIIT-MTIT-Assignment04-Microservices.git)      
+>>>>>>> JAVA PROJECT  ![visitors](https://visitor-badge.glitch.me/badge?page_id=RajithaMihisuru98.SLIIT-MTIT-Assignment04-Microservices)      
 >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>|
 >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>>
 >>>>>>> 
@@ -9,7 +9,7 @@
 >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> 
 >>>>>>>  SLIIT-MTIT-Assignment04-Microservices
 >>>>>>> =====
->>>>>>> branch 'main' of https://github.com/hasantha32/Time_Table_Management_System.git
+>>>>>>> branch 'main' of https://github.com/RajithaMihisuru98/SLIIT-MTIT-Assignment04-Microservices.git
 >>>>>>> >>>>>>> MTIT
 >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>>============
 
