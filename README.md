@@ -1,7 +1,7 @@
 
   SLIIT-MTIT-Assignment04-Microservices
 ==
->>>>>>> JAVA PROJECT  ![visitors](https://visitor-badge.glitch.me/badge?page_id=RajithaMihisuru98.SLIIT-MTIT-Assignment04-Microservices)      
+   
 >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>|
 >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>> >>>>>>>
 >>>>>>> 
